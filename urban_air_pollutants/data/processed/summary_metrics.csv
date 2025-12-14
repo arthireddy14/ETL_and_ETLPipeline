@@ -1,0 +1,10 @@
+key,value
+city_highest_avg_pm2_5,bengaluru
+city_highest_avg_pm2_5_value,35.823
+city_highest_severity,bengaluru
+city_highest_severity_value,1913.046
+worst_aqi_hour,2
+worst_aqi_hour_pm2_5,53.88
+risk_pct_High_Risk,100.0
+risk_pct_Moderate_Risk,0.0
+risk_pct_Low_Risk,0.0

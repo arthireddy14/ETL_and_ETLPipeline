@@ -1,0 +1,12 @@
+2025-12-11 13:44:13,983 - INFO - Starting ETL analysis job
+2025-12-11 13:44:13,984 - INFO - Fetching data from Supabase table: air_quality_data
+2025-12-11 13:44:15,477 - INFO - HTTP Request: GET https://brzhhzroggpnyzjtuqlp.supabase.co/rest/v1/air_quality_data?select=%2A "HTTP/2 200 OK"
+2025-12-11 13:49:53,399 - INFO - Starting ETL analysis job
+2025-12-11 13:51:30,017 - INFO - Starting ETL analysis job
+2025-12-11 13:51:32,205 - INFO - HTTP Request: GET https://brzhhzroggpnyzjtuqlp.supabase.co/rest/v1/air_quality_data?select=%2A "HTTP/2 200 OK"
+2025-12-11 13:51:32,261 - INFO - KPIs computed: {'city_highest_avg_pm2_5': 'bengaluru', 'city_highest_avg_pm2_5_value': np.float64(35.823), 'city_highest_severity': 'bengaluru', 'city_highest_severity_value': np.float64(1913.046), 'risk_percentages': {'High Risk': np.float64(100.0), 'Moderate Risk': np.float64(0.0), 'Low Risk': np.float64(0.0)}, 'worst_aqi_hour': 2, 'worst_aqi_hour_pm2_5': np.float64(53.88)}
+2025-12-11 13:55:27,196 - INFO - Starting ETL analysis job
+2025-12-11 13:55:28,955 - INFO - HTTP Request: GET https://brzhhzroggpnyzjtuqlp.supabase.co/rest/v1/air_quality_data?select=%2A "HTTP/2 200 OK"
+2025-12-11 13:55:28,988 - INFO - KPIs computed: {'city_highest_avg_pm2_5': 'bengaluru', 'city_highest_avg_pm2_5_value': np.float64(35.823), 'city_highest_severity': 'bengaluru', 'city_highest_severity_value': np.float64(1913.046), 'risk_percentages': {'High Risk': np.float64(100.0), 'Moderate Risk': np.float64(0.0), 'Low Risk': np.float64(0.0)}, 'worst_aqi_hour': 2, 'worst_aqi_hour_pm2_5': np.float64(53.88)}
+2025-12-11 13:55:30,327 - INFO - Saved outputs to: data/processed/
+2025-12-11 13:55:30,329 - INFO - ETL analysis job completed

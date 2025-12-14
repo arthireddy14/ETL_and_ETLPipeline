@@ -1,0 +1,8 @@
+2025-12-11 11:47:11,213 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 13:29:59,437 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 13:38:32,656 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 13:39:54,335 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 14:21:30,303 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 14:21:32,857 - INFO - HTTP Request: POST https://brzhhzroggpnyzjtuqlp.supabase.co/rest/v1/rpc/exec_sql "HTTP/2 404 Not Found"
+2025-12-11 14:24:03,740 - INFO - Saved transformed CSV \u2192 data/staged/air_quality_transformed.csv
+2025-12-11 14:24:05,674 - INFO - HTTP Request: POST https://brzhhzroggpnyzjtuqlp.supabase.co/rest/v1/rpc/exec_sql "HTTP/2 404 Not Found"
